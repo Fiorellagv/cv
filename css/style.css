@@ -47,8 +47,6 @@ p {
 h2 {
 	font-size:15px;
 	color:#353535!important;
-	text-transform:uppercase;
-	font-weight:bold;
 }
 h2::after {
 	content:" ";
