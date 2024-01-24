@@ -467,6 +467,7 @@ table {
 .hero h1 span {
 	color:#a1a9b0;
 	/* display:inline-block; */
+	    white-space: nowrap;
 }
 .hero h3 {
 	font-size: 20px;
