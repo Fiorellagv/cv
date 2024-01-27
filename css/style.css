@@ -451,26 +451,11 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	.hero {
-    position: relative;
-    overflow: hidden;
-    padding: 110px 0 100px 0;
-    background-color: #FBFBFB;
-}
-
-#video-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    z-index: -1;
-}
-
-.content {
-    z-index: 1;
-    position: relative;
-}
+	.background: url('../img/colores 10sec.mp4') right bottom no-repeat;
+	background-size: contain;
+	padding:110px 0 100px 0;
+	height:auto;
+	background-color: #FBFBFB;
 
 }
 .hero h1 {
