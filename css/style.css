@@ -451,7 +451,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-    background: url('../img/colores 10sec.mp4') right bottom no-repeat;
+    background: url('../img/colores.png') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
