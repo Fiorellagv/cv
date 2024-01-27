@@ -451,7 +451,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-    background: url('../img/fondo3.png') center center no-repeat;
+    background: url('../img/fondo4.png') center center no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
@@ -558,8 +558,8 @@ table {
 	margin:50px 0 0;
 }
 h1.arrow {
-	font-size: 16px;
-	text-transform:uppercase;
+	font-size: 30px;
+	text-transform:lowercase;
 	color:#353535;
 	letter-spacing: 4px;
 	background:url('../img/h1-bg.png') no-repeat center bottom;
