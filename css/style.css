@@ -618,7 +618,6 @@ h1.arrow span {
     margin-top: 80px;
     margin-bottom: 40px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -631,7 +630,7 @@ h1.arrow span {
     position: relative;
     width: 175px;
     height: 175px;
-    line-height: 175px; /* Ajusta la altura de línea para centrar verticalmente */
+    line-height: 175px;
     font-size: 56px;
     color: #fff;
     border-radius: 50%;
@@ -639,6 +638,7 @@ h1.arrow span {
     -webkit-transition: all .3s ease-out;
     transition: all .3s ease-out;
     border: 1px solid #E04343;
+    margin: 0 auto; /* Centra el ícono horizontalmente */
 }
 
 .services .item:hover .icon {
