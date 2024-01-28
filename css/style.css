@@ -455,7 +455,6 @@ table {
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
-	background-color: #F3F9FF;
 
 }
 .hero h1 {
@@ -559,7 +558,6 @@ table {
 }
 h1.arrow {
 	font-size: 50px;
-	text-transform:lowercase;
 	color:#353535;
 	letter-spacing: 4px;
 	background:url('../img/h1-bg.png') no-repeat center bottom;
