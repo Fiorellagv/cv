@@ -626,17 +626,11 @@ h1.arrow span {
 	line-height:180px;
 	font-size:56px;
 	color:#fff;
-	border-radius:50%;
 	box-shadow:0 0 0 0 rgba(0,0,0,0.0);
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #E04343;
-	color: #E04343;
-}
-.services .item:hover .icon {
-	background: #E04343;
-	border: 1px solid #E04343;
+	color: #ff6caa;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
@@ -647,7 +641,7 @@ h1.arrow span {
 	transform:scale(1.2);
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	color:#fff;
+	color:#ae99bd;
 }
 .features-wrapper {
 	margin:70px 0 0;
