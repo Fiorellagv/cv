@@ -565,7 +565,7 @@ h1.arrow {
 	font-weight: normal;
 }
 h1.arrow span {
-    color: #E04343;
+    color: #FF6CAA;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -687,11 +687,11 @@ i.respons {
 	padding:75px 0;
 }
 .swag h1 {
-	letter-spacing:5px;
+	letter-spacing:0px;
 }
 .swag h1 span {
 	display:block;
-	font-size:25px;
+	font-size:50px;
 	margin-top:20px;
 }
 .down-arrow-btn {
