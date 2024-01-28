@@ -867,16 +867,16 @@ img.grayscale:hover {
 .outline-btn {
 	display:inline-block;
 	padding:25px 40px;
-	color: #FFE801;
-	border: solid 1px #FFE801;
+	color: #FFC2DB;
+	border: solid 1px #FFC2DB;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:1px;
 }
 .outline-btn:hover,.outline-btn:focus {
-	color: #E04343;
-	border: solid 1px #E04343;
-	background: #FFE801;
+	color: #ff6caa;
+	border: solid 1px #ff6caa;
+	background: #FFC2DB;
 }
 .weight-outline-btn {
 	display:inline-block;
