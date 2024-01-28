@@ -56,9 +56,8 @@ h2::after {
 	margin:20px auto;
 }
 h6 {
-	font-size:15px;
+	font-size:20px;
 	color:#8c8c8c;
-	text-transform:uppercase;
 	font-weight:bold;
 }
 h6::after {
@@ -311,6 +310,11 @@ table {
 	transform:translate(0,-15px);
 	-webkit-transform:translate(0,-15px);
 	-ms-transform:translate(0,-15px);
+}
+.contact-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .wrapper {
 	height:650px;
